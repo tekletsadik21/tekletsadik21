@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tekletsadik21
--    I’m interested in Android Development 
-- 🌱 I’m Software Engineer... 
+- 😊 I’m interested in Android Development 
+- 🎓 I’m Software Engineer... 
 - 💞️ I’m very Enthusiast on Flutter and Python 
 
 <!---
